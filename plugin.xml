@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+		id="com.buongiorno.hybrid.playservices" version="0.1">
+	<name>Flurry</name>
+	<description>Google Android Play Services Plugin</description>
+	<license>Proprietary</license>
+	<keywords>cordova,android,playservices</keywords>
+	
+
+	<platform name="android">
+		<framework src="com.google.android.gms:play-services:6.5.87" />
+	</platform>
+</plugin>
